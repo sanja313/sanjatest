@@ -10,3 +10,4 @@ fghj
 Nova nedelja
 ponedeljak
 ujutru
+sada
